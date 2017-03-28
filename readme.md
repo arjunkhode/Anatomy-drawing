@@ -4,14 +4,25 @@
 ![]()
 
 ## Front View Study
+![Hritik FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Hritik-face-study.png)
 ![Brad Pitt FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Brad-face-study.png)
+![SRK FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/SRK-face-study.png)
+![Selena FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Selena-face-study.png)
 ![Ariana FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Ariana-face-study.png)
+![Cameron Diaz FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Cameron-face-study.png)
+![Kristen FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Kristen-face-study.png)
+![Megan FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Megan-face-study.png)
+
+## Front View Outlines
+![Akshaye Khanna outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outine%20akshay%20khanna%20face.jpeg)
+![Tom Cruise outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-Tom-Cruise-face.jpeg)
+![Akshay Kumar outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-akshaykumar-face.jpeg)
 
 ## 3/4th View
 ![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
 ![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
 ![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
-![]()
+![Brad Pitt 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/no5.jpg)
 
 The brow’s bottom is the brow guide. (yellow line)
 Then draw the nose guide. (yellow line)
