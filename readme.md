@@ -44,11 +44,15 @@
 ![Brad Pitt outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-brad-pitt-face.jpeg)
 ![John Abraham outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-john-abraham-face.jpeg)
 
+## Study Drawings
+![Tove](https://github.com/arjunkhode/Anatomy-drawing/blob/master/tove.jpg)
+![Kristen](https://github.com/arjunkhode/Anatomy-drawing/blob/master/kristen.jpg)
+![Beautiful eyes](https://github.com/arjunkhode/Anatomy-drawing/blob/master/beautiful%20eyes.jpg)
+
 ## 3/4th View
 ![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
 ![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
 ![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
 ![Brad Pitt 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/no5.jpg)
 
-## Study Drawings
-![]()
+
