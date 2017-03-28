@@ -47,6 +47,7 @@
 ![John Abraham outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-john-abraham-face.jpeg)
 
 ## 3/4th View
+---------------
 ![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
 ![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
 ![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
