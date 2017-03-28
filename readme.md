@@ -1,4 +1,6 @@
-# Human face
+# Anatomy of the human face
+
+## Creative Commons license. Use them as long as you quote my name :)
 
 ## Front View Study
 ### Male
@@ -54,3 +56,5 @@
 ![Tove](https://github.com/arjunkhode/Anatomy-drawing/blob/master/tove.jpg)
 ![Kristen](https://github.com/arjunkhode/Anatomy-drawing/blob/master/kristen.jpg)
 ![Beautiful eyes](https://github.com/arjunkhode/Anatomy-drawing/blob/master/beautiful%20eyes.jpg)
+
+### More to come!
