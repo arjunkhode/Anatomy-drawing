@@ -13,19 +13,6 @@
 ![Megan FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Megan-face-study.png)
 ![Scarlett FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/scarlett-face-study.png)
 
-## Front View Outlines
-![Akshaye Khanna outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outine%20akshay%20khanna%20face.jpeg)
-![Tom Cruise outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-Tom-Cruise-face.jpeg)
-![Akshay Kumar outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-akshaykumar-face.jpeg)
-![Brad Pitt outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-brad-pitt-face.jpeg)
-![John Abraham outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-john-abraham-face.jpeg)
-
-## 3/4th View
-![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
-![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
-![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
-![Brad Pitt 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/no5.jpg)
-
 # Study Notes
 * The brow’s bottom is the brow guide. (yellow line)
 * Then draw the vertical center: nose guide. (yellow line)
@@ -48,3 +35,20 @@
 * To mark the other end of the eye, divide the region between the red vertical line and the edge of the face into half. (purple vertical line)
 * Divide the new outer side cell region still in another half (green line). The edge of the cell on the inner side of the face marks the end of the white of the eye. 
 * If a woman is wearing makeup, the outer cell’s outer edge marks the end of the eye.(purple line) 
+
+
+## Front View Outlines
+![Akshaye Khanna outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outine%20akshay%20khanna%20face.jpeg)
+![Tom Cruise outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-Tom-Cruise-face.jpeg)
+![Akshay Kumar outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-akshaykumar-face.jpeg)
+![Brad Pitt outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-brad-pitt-face.jpeg)
+![John Abraham outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-john-abraham-face.jpeg)
+
+## 3/4th View
+![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
+![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
+![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
+![Brad Pitt 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/no5.jpg)
+
+## Study Drawings
+![]()
