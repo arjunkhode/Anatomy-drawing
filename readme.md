@@ -37,7 +37,7 @@
 * If a woman is wearing makeup, the outer cell’s outer edge marks the end of the eye.(purple line) 
 
 
-## Front View Outlines
+## Front View Outlines (Study of the jaw)
 ![Akshaye Khanna outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outine%20akshay%20khanna%20face.jpeg)
 ![Tom Cruise outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-Tom-Cruise-face.jpeg)
 ![Akshay Kumar outline](https://github.com/arjunkhode/Anatomy-drawing/blob/master/outline-akshaykumar-face.jpeg)
