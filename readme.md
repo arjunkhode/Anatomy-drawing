@@ -1,5 +1,18 @@
 # Human face
 
+## Front View
+![]()
+
+## Front View Study
+![Brad Pitt FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Brad-face-study.png)
+![Ariana FV Study](https://github.com/arjunkhode/Anatomy-drawing/blob/master/Ariana-face-study.png)
+
+## 3/4th View
+![Taylor Swift 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/10381.png)
+![Jude Law 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/2ca5c4c312acf25966b555ac9892d66c.jpg)
+![Hritik Roshan 3/4th view](https://github.com/arjunkhode/Anatomy-drawing/blob/master/96a50f9bf60e283639155b885d3189d7.jpg)
+![]()
+
 The brow’s bottom is the brow guide. (yellow line)
 Then draw the nose guide. (yellow line)
 Divide the brow-nose region in half, then divide the midpoint to brow in 3 parts. The female eye fits perfectly in the middle cell. 
